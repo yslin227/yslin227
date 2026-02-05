@@ -10,7 +10,7 @@ In the short term, I aim to contribute to companies developing AML products. In 
 
 ## AgrorithmFarm  
 
-### Multi-type File Generator for LLM Training (LLM, Deep Learning, Machine Learning Algorithm, Web Design, Visualization)
+### Multi-type File Generator for LLM Training (LLM, Deep Learning, Machine Learning, Web Design, Visualization)
 
 Designed for the Capital Area Food Bank (CAFB), AgrorithmFarm is an interactive Streamlit-based application that enables users to generate high-quality content including blog posts, PowerPoint presentations, YouTube transcripts, grant proposals, and marketing collateral. The system supports file uploads, URL ingestion, and manual prompts, and integrates Large Language Models (LLMs), image captioning, Retrieval-Augmented Generation (RAG), and dynamic slide generation into a unified workflow that automates content transformation and reduces manual effort. 
 
@@ -29,9 +29,9 @@ Designed for the Capital Area Food Bank (CAFB), AgrorithmFarm is an interactive 
 
 ## WNUT17 GPT-based NER Benchmark  
 
-### Prompt-based Named Entity Recognition Benchmark on WNUT 2017 (LLM, NLP, Prompting, Evaluation, Error Analysis)
+### Prompt-based NER Benchmark on WNUT 2017 (LLM, NLP, Prompting, Evaluation)
 
-This project benchmarks GPT-style prompt-based Named Entity Recognition (NER) on the WNUT 2017 Emerging and Rare Entity dataset, focusing on how well large language models handle noisy, informal text and hard-to-detect entity types. The repository provides a reproducible workflow for running zero-shot and few-shot experiments, standardizing model outputs, evaluating performance with precision, recall, and F1 metrics, and conducting error analysis on boundary mistakes, entity type confusion, and prompt-induced false positives.
+Developed as a research-oriented benchmark, this project evaluates GPT-style prompt-based Named Entity Recognition (NER) on the WNUT 2017 Emerging and Rare Entity dataset, focusing on how well large language models handle noisy, informal text and hard-to-detect entity types. The repository provides a reproducible workflow for running zero-shot and few-shot experiments, standardizing model outputs, evaluating performance with precision, recall, and F1 metrics, and conducting error analysis on boundary mistakes, entity type confusion, and prompt-induced false positives.
 
 <table>
   <tr>
