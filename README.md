@@ -1,10 +1,12 @@
 # About
 
-I am an AML Data Analyst with nearly five years of hands-on banking experience, specializing in tuning transaction monitoring and sanctions screening systems to reduce false positives and improve operational efficiency. I bridge compliance and technology by applying data science, SQL, and Python to build scalable, data-driven solutions for financial crime prevention.
-
-Currently, I am pursuing a Master of Science in Data Science at the University of Maryland, where I focus on machine learning and NLP applications for real-world problems.
-
-In the short term, I aim to contribute to companies developing AML products. In the long run, I seek to leverage AI-driven approaches to make AML systems more accurate, adaptable, and less operationally burdensome for end users.
+I am a data-driven engineer specializing in process monitoring, anomaly detection, and quality optimization, with nearly five years of experience building and deploying analytical solutions in complex, data-intensive environments.
+ 
+My work focuses on designing scalable workflows that improve decision consistency, reduce variability, and enhance system reliability. By integrating statistical modeling, anomaly detection, and rule-based logic, I have successfully reduced false positives and improved operational efficiency across cross-functional systems.
+ 
+I bring a unique combination of strong analytical skills and practical experience in building end-to-end data solutions—from data processing and modeling to system integration and workflow standardization. My background enables me to translate complex data patterns into actionable insights that support process stability and continuous improvement.
+ 
+In the short term, I aim to contribute to process and quality engineering roles where data-driven methods can improve system performance and manufacturing reliability. In the long term, I seek to leverage advanced analytics and AI to drive scalable quality optimization and intelligent process control in complex production environments.
 
 # Projects
 
